@@ -75,10 +75,10 @@ xTextRefresh();
 xText
   .append("text")
   .attr("y", -26)
-  .attr("data-name", "poverty")
+  .attr("data-name", "Cx_SSI")
   .attr("data-axis", "x")
   .attr("class", "aText active x")
-  .text("In Poverty (%)");
+  .text("SSI Average");
 // 2. Age
 xText
   .append("text")
@@ -154,7 +154,7 @@ yText
 // by the Behavioral Risk Factor Surveillance System.
 
 // Import our CSV data with d3's .csv import method.
-d3.csv("static/data/data.csv").then(function(data) {
+d3.csv("static/data/data2.csv").then(function(data) {
   // Visualize the data
   visualize(data);
 });
