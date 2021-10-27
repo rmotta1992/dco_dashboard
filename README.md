@@ -1,37 +1,38 @@
-## Welcome to GitHub Pages
+## Welcome to the DCO Dashboard!
 
-You can use the [editor on GitHub](https://github.com/rmotta1992/dco_dashboard/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+This repository contains the data and scripts to publish the Dennis and Co Customer Experiene Dashboard
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Scope
 
-### Markdown
+Customer experience is vital to all business and especially in the automotive industry. Managing SSI and CSI scores are vital to the perfomance of a car dealeship and this repository sets the ground work needed to create an internal reporting site for auto group managment to view the perfomance each dealership.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Dealership Data Included
 
-```markdown
-Syntax highlighted code block
+- Eastchester CJDR - Sales SSI and Service CSI scores
+    - Viewable Data:
+        - Monthly overall performance
+        - Performance by each employee
+        - Score trends
+        - Score forecasts
+- Riverdale CJDR - Sales SSI and Service CSI scores
+    - Viewable Data:
+        - Monthly overall performance
+        - Performance by each employee
+        - Score trends
+        - Score forecasts
+- Kia of West Nyack - Sales SEI and Service KSI scores
+    - Viewable Data:
+        - Quarterly overall performance
+        - Performance by each employee
+        - Score trends
+        - Score forecasts
+- Buick GMC of Mahwah - Essential Brand Elements and SSI score
+     - Viewable Data:
+        - Quarterly progrress towards goals
+        - Performance by each employee
+        - Score trends
+        - Score forecasts
+- White Plains Volkswagen
+- Volkswagen of Nanuet
+- Greenwich Ford
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/rmotta1992/dco_dashboard/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
